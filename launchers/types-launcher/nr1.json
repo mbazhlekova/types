@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "types-launcher",
+    "displayName": "TypesLauncher",
+    "description": "Describe me",
+    "rootNerdletId": "types-nerdlet"
+}
